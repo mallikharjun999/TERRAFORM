@@ -1,5 +1,1 @@
-By tfvars we can set the desired values for our infrastructure before applying it.
-
-1). REGION
-2). INSTANCE TYTPE
-3). AMI ID etc...
+Terraform . tfvars files are used to store variable definitions. This allows you to externalize your variable definitions and makes it easier to manage them, especially if you have a large number of variables or need to use the same variables in multiple environments.
