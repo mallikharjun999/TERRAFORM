@@ -1,6 +1,6 @@
 # CONFIGURE AWS CLI IN LINUX DEBIAN PACKAGE :
 
-(sudo apt-get update)
+```sudo apt-get update```
 
 (sudo apt-get install awscli)
 
