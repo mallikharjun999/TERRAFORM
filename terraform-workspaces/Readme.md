@@ -1,3 +1,5 @@
 **TO CREATE NEW WORKSPACES**
 
-```terraform workspace new dev```       -------> for creating dev workspace
+```
+terraform workspace new dev
+```      
